@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="cfg/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/cfg"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MongoDB"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/springsecurity"/>
+	<classpathentry kind="lib" path="G:/学习/hibernate资料/hibernate包/slf4j-log4j12-1.6.4.jar"/>
+	<classpathentry kind="lib" path="G:/学习/hibernate资料/其它一些jar包/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="G:/学习/hibernate资料/其它一些jar包/asm-3.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
